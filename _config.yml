@@ -65,8 +65,8 @@ gitalk:
   clientID: '87194e7798ce1e3f5e0b'                            #生成的clientID
   clientSecret: 'edb981cd793e929fd51b78ccffd65ecb05c405a8'   #生成的clientSecret
   repo: 'Blog-gittalk'    #仓库名称
-  owner: 'Jiusi1999'    #github用户名
-  admin: ['Jiusi1999'] 
+  owner: Jiusi1999    #github用户名
+  admin: [Jiusi1999] 
   id: location.href
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 # 统计
