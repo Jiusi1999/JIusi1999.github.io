@@ -62,14 +62,13 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 87194e7798ce1e3f5e0b                            #生成的clientID
-  clientSecret: a2dc85b35912dc5e4c433dd29258a299315aaf58   #生成的clientSecret
-  repo: Blog-gittalk    #仓库名称
-  owner: Jiusi1999    #github用户名
-  admin: [Jiusi1999]
+  clientID: '87194e7798ce1e3f5e0b'                            #生成的clientID
+  clientSecret: 'a2dc85b35912dc5e4c433dd29258a299315aaf58'   #生成的clientSecret
+  repo: 'Blog-gittalk'    #仓库名称
+  owner: 'Jiusi1999'    #github用户名
+  admin: [Jiusi1999] 
+  id: 'location.href'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: location.href
-
 # 统计
 
 # Analytics settings
