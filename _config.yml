@@ -1,7 +1,7 @@
 # Site settings
 title: Jiusi Blog
 SEOTitle: 思铭的博客 | JS Blog
-header-img: img/post-bg-coffee.jpeg
+header-img: img/bp-JS.jpg
 email: yuansiming1999@cumt.edu.cn
 description: "这里是Jiusi的个人博客."
 keyword: "JS, JS Blog, 思铭的博客, yuansiming, 袁思铭, iOS, Apple, iPhone"
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: Jiusi1999.github.io    #仓库名称
+  clientID: 87194e7798ce1e3f5e0b                            #生成的clientID
+  clientSecret: a2dc85b35912dc5e4c433dd29258a299315aaf58   #生成的clientSecret
+  repo: Blog-gittalk    #仓库名称
   owner: Jiusi1999    #github用户名
-  admin: Jiusi1999
+  admin: [Jiusi1999]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
