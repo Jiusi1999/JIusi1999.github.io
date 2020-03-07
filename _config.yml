@@ -62,9 +62,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 87194e7798ce1e3f5e0b                            #生成的clientID
-  clientSecret: edb981cd793e929fd51b78ccffd65ecb05c405a8    #生成的clientSecret
-  repo:     #仓库名称
+  clientID: ba573e6e04733be65e15                            #生成的clientID
+  clientSecret: ad1ca615f72c262f90964837dec3ccf47194a246    #生成的clientSecret
+  repo:  Blog-gittalk   #仓库名称
   owner: Jiusi1999    #github用户名
   admin: Jiusi1999
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
